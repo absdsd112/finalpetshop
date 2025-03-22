@@ -6,7 +6,11 @@ node_modules
 .netlify
 .wrangler
 /.svelte-kit
+<<<<<<< HEAD
 # /build
+=======
+
+>>>>>>> 289a97c8410a376038c4a96fb7487d696ee61929
 
 # OS
 .DS_Store
